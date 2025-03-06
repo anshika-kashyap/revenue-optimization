@@ -20,6 +20,7 @@ Anomaly Detection in Data Analysis means finding unusual data points that don’
   - Markdown (for documentation & explanations)
 - BigQuery (for storing the dataset to query)
   - Structured Query Language/SQL (for querying the dataset)
+- Google Slides (for presenting insights)
 
 ## Timeline
 - The project took 5 days for completion.
