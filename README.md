@@ -18,7 +18,8 @@ Anomaly Detection in Data Analysis means finding unusual data points that don’
     - Matplotlib.pyplot (for data visualization)
     - Seaborn (for higher level data visualization)
   - Markdown (for documentation & explanations)
-- BigQuery (for querying the dataset)
+- BigQuery (for storing the dataset to query)
+  - Structured Query Language/SQL (for querying the dataset)
 
 ## Timeline
 - The project took 5 days for completion.
@@ -36,7 +37,7 @@ Anomaly Detection in Data Analysis means finding unusual data points that don’
 
 ## Deliverables
 - Descriptive Data Analysis of the provided dataset
-- Visualizations to understand the data better [within .ipynb file and presentation]
+- Visualizations to understand the data better [within "'.ipynb' file" and the "presentation"]
 - Insights and Suggestions Presentation to share data analysis conclusions
 
 # About Repository
