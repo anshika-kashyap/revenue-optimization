@@ -1,13 +1,13 @@
-Anomalies are data points that deviate from the normal pattern in a dataset.
+Optimization means finding the most efficient way to achieve a goal.
 
-Anomaly Detection in Data Analysis means finding unusual data points that don’t follow the normal pattern. These could be errors, rare events, or important changes in the data.
+Revenue Optimization in finance means maximizing income while minimizing losses.
 
 # Project Documentation
 
 ## Overview
-- Project Name: Revenue Anomalies Detection 
+- Project Name: Revenue Optimization 
 - Project Focus: Descriptive and Prescriptive Data Analysis
-- Project Goal: To find anomalies for rare evnets and give suggestions based on them.
+- Project Goal: To understand historical data and give insights and suggestions for future based on it.
 - Data Source: [Kaggle](https://www.kaggle.com/datasets/himelsarder/coffee-shop-daily-revenue-prediction-dataset)
 
 ## Tools Used
@@ -24,7 +24,7 @@ Anomaly Detection in Data Analysis means finding unusual data points that don’
 ## Timeline
 - The project took 5 days for completion.
   - Day 1: Exploratory Data Analysis [EDA] & Data Cleaning
-  - Day 2 and Day 3: Data Analysis Using Python & SQL
+  - Day 2 and Day 3: Data Analysis
   - Day 4 and Day 5: Insights and Suggestions Presentation
 
 ## Methodology
