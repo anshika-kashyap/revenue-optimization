@@ -17,15 +17,14 @@ Anomaly Detection in Data Analysis means finding unusual data points that don’
     - Numpy (for statistical analysis)
     - Matplotlib.pyplot (for data visualization)
     - Seaborn (for higher level data visualization)
+    - SQLite3 (for querying the dataset)
   - Markdown (for documentation & explanations)
-- BigQuery (for storing the dataset to query)
-  - Structured Query Language/SQL (for querying the dataset)
 - Google Slides (for presenting insights)
 
 ## Timeline
 - The project took 5 days for completion.
   - Day 1: Exploratory Data Analysis [EDA] & Data Cleaning
-  - Day 2 and Day 3: Data Analysis
+  - Day 2 and Day 3: Data Analysis Using Python & SQL
   - Day 4 and Day 5: Insights and Suggestions Presentation
 
 ## Methodology
