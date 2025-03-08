@@ -30,7 +30,7 @@ Revenue Optimization in finance means maximizing income while minimizing losses.
 ## Methodology
 -   Importing neecsary libraries and Loading datasets
 -   Executing Data Exploration
--   Executing Data Preprocessing
+-   Executing Data Cleaning
 -   Data Analysis
 -   Drawing Conclusion
 -   Insights and Suggestions Presentation Preparation
