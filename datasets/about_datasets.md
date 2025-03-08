@@ -1,10 +1,11 @@
-# About Dataset
+# About Datasets
 
 ## Overview
 
-The dataset is about daily coffee shop revenue and other factors that affect the rate of revenue.
+The raw dataset is about daily coffee shop revenue and other factors that affect the rate of revenue.
 
 - coffee_shop_revenue.csv: The raw dataset.
+- cleaned_coffee_shop_revenue.csv: The cleaned dataset.
 
 ## Columns Descriptions
 
