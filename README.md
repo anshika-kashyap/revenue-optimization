@@ -42,5 +42,5 @@ Revenue Optimization in finance means maximizing income while minimizing losses.
 
 # About Repository
 - [datasets](https://github.com/anshika-kashyap/revenue-optimization/tree/main/datasets): Folder consisting raw dataset, cleaned dataset, information about datasets.
+- [presentation](https://github.com/anshika-kashyap/revenue-optimization/tree/main/presentation): Folder consisting Insights and Recommendations Presentation PDF, information about presentation and link to Google Slides Presentation.
 - [revenue_optimization.ipynb](https://github.com/anshika-kashyap/revenue-optimization/blob/main/revenue_optimization.ipynb): Jupyter notebook to complete the project. Includes data exploration, data processing, data analysis and key insights.
-- [revenue_optimization.pptx](): 
